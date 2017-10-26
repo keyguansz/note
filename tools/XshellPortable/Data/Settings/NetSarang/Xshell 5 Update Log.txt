@@ -1,0 +1,29 @@
+[09/15/2015 10:26:43] Success	Update started: C:\Users\GuanJian\Desktop\XshellPortable\App\Xshell\LiveUpdate.exe
+[09/15/2015 10:26:44] Notice	Update engine version: 3.7.0.0
+[09/15/2015 10:26:44] Notice	Product: Xshell 5
+[09/15/2015 10:26:44] Success	Language set: Primary = 4, Secondary = 2
+[09/15/2015 10:26:44] Success	Include script: _TU20_Global_Functions.lua
+[09/15/2015 10:26:44] Error	An error occurred when trying to download the server file. Server ID: TrueUpdate Server 2 : An error occurred while trying to open the HTTP file. (3611)
+[09/15/2015 10:26:45] Error	无法解析服务器的名称或地址
+ (3611)
+[09/15/2015 10:26:45] Error	Script: Client Script, Line 27 (3611)
+[09/15/2015 10:26:45] Error	An error occurred when trying to download the server file. Server ID: TrueUpdate Server 3 : An error occurred while trying to open the HTTP file. (3611)
+[09/15/2015 10:26:45] Error	无法解析服务器的名称或地址
+ (3611)
+[09/15/2015 10:26:45] Error	Script: Client Script, Line 27 (3611)
+[09/15/2015 10:26:45] Error	An error occurred when trying to download the server file. Server ID: TrueUpdate Server 4 : An error occurred while trying to open the HTTP file. (3611)
+[09/15/2015 10:26:46] Error	无法解析服务器的名称或地址
+ (3611)
+[09/15/2015 10:26:46] Error	Script: Client Script, Line 27 (3611)
+[09/15/2015 10:26:46] Success	Run client data event: Client Script
+[09/15/2015 10:26:46] Notice	Exit update process (Return code: 0)
+[09/23/2015 11:18:36] Success	Update started: C:\Users\GuanJian\Desktop\XshellPortable\App\Xshell\LiveUpdate.exe
+[09/23/2015 11:18:36] Notice	Update engine version: 3.7.0.0
+[09/23/2015 11:18:37] Notice	Product: Xshell 5
+[09/23/2015 11:18:37] Success	Language set: Primary = 4, Secondary = 2
+[09/23/2015 11:18:37] Success	Include script: _TU20_Global_Functions.lua
+[09/23/2015 11:18:40] Success	Language set: Primary = 9, Secondary = 1
+[09/23/2015 11:18:40] Notice	Automatic update required.
+[09/23/2015 11:18:50] Notice	Dat file updated: 'C:\Users\GuanJian\Desktop\XshellPortable\App\Xshell\LiveUpdate.dat'
+[09/23/2015 11:18:50] Success	Run client data event: Client Script
+[09/23/2015 11:18:50] Notice	Exit update process (Return code: 11)

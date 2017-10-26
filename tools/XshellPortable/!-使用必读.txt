@@ -1,0 +1,22 @@
+
+    Xshell 5 简体中文绿色便携版 - 免费的 SSH/SFTP 终端模拟器
+————————————————
+
+    使用说明：直接运行 XshellPortable.exe 即可，当前版本 Xshell 5 Build 0046。
+    
+	1、若运行报错或没有反应，请务必手动安装以下两个 VC 运行库：
+	
+        Visual C++ 2008 SP1 运行库：http://www.microsoft.com/zh-cn/download/details.aspx?id=5582
+        Visual C++ 2012 运行库 (vcredist_x86 32位版)：http://www.microsoft.com/zh-cn/download/details.aspx?id=30679
+    
+    2、所有配置相关文件将存储在 Data\Settings 目录；
+    3、本便携版不支持自定义会话文件夹路径，始终保存 Data\Settings\Sessions 文件夹下，请尽量不要修改，以免出错；
+    4、如果之前使用过我做的便携版，可以重新配置，或者把 Sessions 手动转移到 Data\Settings\Sessions 目录；
+    5、运行后请务必正常退出 Xshell 程序，以保持便携化。
+    6、中文帮助文件：App\Xshell\Xshell_cn.chm
+
+    详细介绍：http://www.portablesoft.org/xshell/
+    
+————————————————
+    黯然过客为您绿化、请访问我的博客：http://www.portablesoft.org/
+    绿化有问题？有想要绿化的软件？请联系我：admin@portablesoft.org
