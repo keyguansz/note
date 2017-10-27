@@ -119,7 +119,7 @@ Display=$PCADDR:0.0
 Passphrase=
 UseInitScript=0
 TelnetLoginPrompt=ogin:
-Password=D7x3AOjabm9ZCZcyTnmwuOe6IUosmbvyPLl5ADvNZaKEaKmlJgeSGoc=
+Password=sI9vqLh3fHAtCZcyTnmwuOe6IUosmbvyPLl5ADvNZaKEaKmlJgeSGoc=
 RloginPasswordPrompt=assword:
 UseExpectSend=0
 TelnetPasswordPrompt=assword:
