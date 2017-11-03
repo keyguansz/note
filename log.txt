@@ -1,4 +1,4 @@
-dji@RDCMP33-in:/usr/lib/jvm$ ls -al
+K@RDCMP33-in:/usr/lib/jvm$ ls -al
 total 32
 drwxr-xr-x  6 root root 4096 May  3 15:04 .
 drwxr-xr-x 75 root root 4096 Oct 26 15:48 ..
@@ -13,10 +13,10 @@ drwxr-xr-x  8 uucp  143 4096 Apr 11  2015 jdk1.7.0_79
 drwxr-xr-x  8 root root 4096 May  3 14:37 jdk1.8.0_11
 
 
-key@RDCMP33-in:/home/dji$ sudo cd ./usr/local/tomcat9/startup.sh
+key@RDCMP33-in:/home/K$ sudo cd ./usr/local/tomcat9/startup.sh
 [sudo] password for key: 
 key is not in the sudoers file.  This incident will be reported.
-dji@RDCMP33-in:~$ sudo ./usr/local/tomcat9/startup.sh
+K@RDCMP33-in:~$ sudo ./usr/local/tomcat9/startup.sh
 sudo: ./usr/local/tomcat9/startup.sh: command not found
 È¨ÏÞ²»×ã
 
@@ -28,22 +28,22 @@ xandy   ALL=(ALL:ALL) ALL
 tiger   ALL=(ALL:ALL) ALL
 tom     ALL=(ALL:ALL) ALL
 todd    ALL=(ALL:ALL) ALL
-djiadmin ALL=(ALL:ALL) ALL
+Kadmin ALL=(ALL:ALL) ALL
 
-dji@RDCMP33-in:~/jenkins$ ./tomcat9/bin/startup.sh 
-Using CATALINA_BASE:   /home/dji/jenkins/tomcat9
-Using CATALINA_HOME:   /home/dji/jenkins/tomcat9
-Using CATALINA_TMPDIR: /home/dji/jenkins/tomcat9/temp
+K@RDCMP33-in:~/jenkins$ ./tomcat9/bin/startup.sh 
+Using CATALINA_BASE:   /home/K/jenkins/tomcat9
+Using CATALINA_HOME:   /home/K/jenkins/tomcat9
+Using CATALINA_TMPDIR: /home/K/jenkins/tomcat9/temp
 Using JRE_HOME:        /usr/lib/jvm/java-1.8.0-openjdk-amd64
-Using CLASSPATH:       /home/dji/jenkins/tomcat9/bin/bootstrap.jar:/home/dji/jenkins/tomcat9/bin/tomcat-juli.jar
+Using CLASSPATH:       /home/K/jenkins/tomcat9/bin/bootstrap.jar:/home/K/jenkins/tomcat9/bin/tomcat-juli.jar
 Tomcat started.
-dji@RDCMP33-in:~/jenkins$ wget http://kd-jenkins.djicorp.com:18080/
---2017-10-30 13:18:31--  http://kd-jenkins.djicorp.com:18080/
-Resolving kd-jenkins.djicorp.com (kd-jenkins.djicorp.com)... 10.8.0.136
-Connecting to kd-jenkins.djicorp.com (kd-jenkins.djicorp.com)|10.8.0.136|:18080... connected.
+K@RDCMP33-in:~/jenkins$ wget http://kd-jenkins.Kcorp.com:18080/
+--2017-10-30 13:18:31--  http://kd-jenkins.Kcorp.com:18080/
+Resolving kd-jenkins.Kcorp.com (kd-jenkins.Kcorp.com)... 10.8.0.136
+Connecting to kd-jenkins.Kcorp.com (kd-jenkins.Kcorp.com)|10.8.0.136|:18080... connected.
 HTTP request sent, awaiting response... 403 
 2017-10-30 13:18:31 ERROR 403: (no description).
-dji@RDCMP33-in:~/jenkins/tomcat9/webapps$ wget http://10.8.0.136:18080/examples
+K@RDCMP33-in:~/jenkins/tomcat9/webapps$ wget http://10.8.0.136:18080/examples
 --2017-10-30 13:21:27--  http://10.8.0.136:18080/examples
 Connecting to 10.8.0.136:18080... connected.
 HTTP request sent, awaiting response... 302 
